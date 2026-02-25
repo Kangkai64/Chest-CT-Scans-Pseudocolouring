@@ -1,0 +1,12 @@
+The primary objectives of this project are:
+1. To design and implement a pseudocolour transformation system that converts grayscale chest CT-scan images into optimized colour-mapped representations by 20/4/2026, achieving at least 30% improvement in visual contrast discrimination compared to conventional grayscale displays as measured by contrast-to-noise ratio (CNR) metrics.
+2. To develop and evaluate multiple colour mapping schemes (minimum of three distinct algorithms including intensity-based slicing, gradient-based colouring, and perceptually uniform colour spaces) that enhance the visibility of specific anatomical structures and pathological features in chest CT images, with quantitative assessment through user studies involving at least 15 participants and achieving a minimum user satisfaction score of 4.0/5.0.
+3. To validate the clinical utility of the developed pseudocolour processing system by demonstrating measurable improvements in detection accuracy of pulmonary nodules, ground-glass opacities, and other thoracic abnormalities, achieving at least 15% reduction in interpretation time and 10% improvement in diagnostic sensitivity compared to grayscale image analysis in controlled evaluation scenarios.
+
+Techniques used
+1. intensity-based slicing
+2. gradient-based colouring 
+3. perceptually uniform colour spaces
+
+Dataset
+https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
